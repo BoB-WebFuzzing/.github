@@ -44,4 +44,12 @@ gantt
         Report vulnerability    :2023-10-15, 8w
 ```
 
+## Contributor
+* PM: Jinhee Parck ([daldagur1](https://github.com/daldagur1))
+* Minhyuk Park ([shirohacker](https://github.com/shirohacker))
+* Hyoungbin An ([nks0005](https://github.com/nks0005))
+* Kyohyun Lee ([kakunge](https://github.com/kakunge))
+* Seongho Jeong ([Sanineng](https://github.com/Sanineng))
+* PL: Dohyun Lee ([dlehgus1023](https://github.com/dlehgus1023))
+* Mentor: Jeongsu Choi, Woowon Kang
 
