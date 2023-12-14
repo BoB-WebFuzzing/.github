@@ -45,7 +45,7 @@ gantt
 ```
 
 ## Contributor
-* PM: Jinhee Parck ([daldagur1](https://github.com/daldagur1))
+* PM: Jinhee Park ([daldagur1](https://github.com/daldagur1))
 * Minhyuk Park ([shirohacker](https://github.com/shirohacker))
 * Hyoungbin An ([nks0005](https://github.com/nks0005))
 * Kyohyun Lee ([kakunge](https://github.com/kakunge))
