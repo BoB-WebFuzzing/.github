@@ -1,5 +1,5 @@
-# Development of a Generic Web Application Fuzzer based on Witcher Fuzzer : Find Vulnerability in Open Source Application
-BoB 12th Project - Team WTF (Web The Fuzz)
+# BoB 12th Project - Team WTF (Web The Fuzz)
+Development of a Generic Web Application Fuzzer based on Witcher Fuzzer : Find Vulnerability in Open Source Application
 
 ## WBS
 
@@ -34,3 +34,5 @@ gantt
     section Report vulnerability
         Report vulnerability    :2023-10-15, 8w
 ```
+
+
