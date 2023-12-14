@@ -1,4 +1,4 @@
-# BoB 12th Project - Team WTF (Web The Fuzz)
+# BoB 12th Project - Team WTF (Web The Fuzzer)
 
 ```
             _       __     __  ________         ______                         
