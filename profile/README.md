@@ -19,7 +19,7 @@ gantt
     section Splashdown
         Establishment of project plan    :2023-09-03, 7d
         Project plan inspection    :2023-09-03, 7d
-    section Inspectionzzz
+    section Inspection
         Analysis of Witcher build methods    :2023-09-03, 7d
         Implementation mechanism analysis    :2023-09-10, 7d
         Code refactoring    :2023-09-10, 7d
